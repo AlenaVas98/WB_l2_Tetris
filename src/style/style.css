@@ -3,14 +3,11 @@
   padding: 0;
   margin: 0;
 }
-html {
-  height: 100vh;
-}
 body {
   background: linear-gradient(to top, #86b6f6, #b4d4ff, #eef5ff);
 }
 .root {
-  margin: 80px auto;
+  margin: 20px auto;
   align-content: center;
   position: relative;
   overflow: hidden;
@@ -43,7 +40,9 @@ body {
   background-color: #38419d;
 }
 .score {
-  margin: 30px auto;
+position: absolute;
+    top: 400px;
+    right: 59px;
   font-size: 30px;
   padding: 22px;
   border: 1px solid #000;
@@ -54,7 +53,7 @@ body {
   padding: 20px;
   position: absolute;
   top: 200px;
-  right: 250px;
+  right: 15px;
   font-size: 25px;
 }
 .overlay {
