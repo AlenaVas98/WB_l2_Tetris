@@ -28,8 +28,8 @@ function StartGame() {
     mainBody.appendChild(div);
   }
 
-  let root = document.getElementsByClassName("root")[0];
-  root.appendChild(mainBody);
+  let playArea = document.getElementsByClassName("playArea")[0];
+  playArea.appendChild(mainBody);
 
   // добавления координатов для дальнейшего перемещения фигур по ним
 
