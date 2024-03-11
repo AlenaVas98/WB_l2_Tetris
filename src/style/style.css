@@ -47,12 +47,6 @@ body {
   background-color: #38419d;
 }
 .score {
-<<<<<<< HEAD
-=======
-position: absolute;
-    top: 400px;
-    right: 59px;
->>>>>>> 4993c1b205ed7f244873acabede8761bf2858742
   font-size: 30px;
   border: 1px solid #000;
   background-color: #fff;
@@ -61,14 +55,7 @@ position: absolute;
 }
 
 .rules {
-<<<<<<< HEAD
   padding: 20px 20px 20px 0px;
-=======
-  padding: 20px;
-  position: absolute;
-  top: 200px;
-  right: 15px;
->>>>>>> 4993c1b205ed7f244873acabede8761bf2858742
   font-size: 25px;
   display: flex;
   flex-direction: column;
